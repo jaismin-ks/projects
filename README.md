@@ -4,7 +4,7 @@ A collection of interactive and experimental projects exploring **3D web, C++ ga
 
 ---
 
-## 🟦 Three.js Interactive Portfolio
+## 🟦 Three.js Interactive Portfolio (In Progress)
 **Tech:** Three.js • GSAP • WebGPU-ready • Shaders  
 **Type:** Interactive 3D portfolio
 
