@@ -66,4 +66,8 @@ Play as a cat catching falling food items. Simple, fast-paced, and fun.
 https://github.com/user-attachments/assets/fb11ec3d-6e46-4b2d-97be-d74a06217c62
 
 ---
+### More Porjects to Explore!
 
+https://github.com/user-attachments/assets/da2a3ce5-ab6c-4d98-a559-0a98645e8b20
+
+<img width="1512" alt="Screenshot 2025-07-06 at 10 13 46 PM" src="https://github.com/user-attachments/assets/f50b802b-e736-4810-a424-f05d7108d80c" />
