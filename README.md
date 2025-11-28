@@ -1,89 +1,64 @@
-🟦 1. Three.js Interactive Portfolio
+# 🚀 Creative Tech Demos & Projects
 
-Tech: Three.js, WebGPU-ready pipeline, GSAP, Custom Shaders
-Type: Interactive 3D portfolio / Web experience
+A collection of interactive and experimental projects exploring **3D web, C++ game development, and collaborative web applications**.
 
-⭐ Overview
+---
 
-A fully interactive 3D portfolio environment built with Three.js.
-Features smooth GSAP-driven animations, interactive objects on hover/click, custom shader effects, and dynamic camera transitions.
+## 🟦 Three.js Interactive Portfolio
+**Tech:** Three.js • GSAP • WebGPU-ready • Shaders  
+**Type:** Interactive 3D portfolio
 
-🔥 Features
+### ✨ Overview  
+A 3D immersive portfolio experience built with Three.js and GSAP. Includes interactive objects, smooth camera transitions, and shader-based visual effects.
 
-3D scene with animated and interactive elements
+### 🔥 Features
+- Interactive 3D elements (hover + click)
+- GSAP-driven animations
+- Scene + camera transitions
+- Optimized rendering pipeline
 
-GSAP motion sequencing + scroll-triggered transitions
+### 🎥 Demo  
+👉 *Add link here*
 
-Clean architecture for scene, controls, and asset loading
+---
 
-Performance-optimized with compressed models and reusable materials
+## 🐾 Meownster (C++ Game)
+**Tech:** C++ • Raylib  
+**Type:** 2D arcade-style falling-object game
 
-Works as a portfolio homepage or splash experience
+### ✨ Overview  
+Play as a cat catching falling food items. Simple, fast-paced, and fun.
 
-🎥 Demo
+### 🎮 Gameplay
+- Move the cat along the bottom
+- Catch falling foods to score
+- Difficulty increases over time
 
-(Insert link here)
+### 🔧 Highlights
+- Custom sprite rendering  
+- Collision detection  
+- Game loop + delta timing  
+- Sound effects
 
-🐾 2. Meownster
+### 🎥 Demo  
+👉 *Add link here*
 
-Tech: C++, Raylib
-Type: 2D arcade game
+---
 
-⭐ Overview
+## 🎨 Theraplay (Hackathon Project)
+**Tech:** Node.js • WebSockets • Canvas API • Express  
+**Type:** Anonymous chat + collaborative doodling app
 
-Meownster is a cute, fast-paced game where you play as a cat trying to catch falling food items. The more you catch, the higher the score — but don’t miss too many!
+### ✨ Overview  
+A calming web app where anonymous users can chat and doodle together in real time.
 
-🎮 Gameplay
+### 🔥 Features
+- Real-time anonymous chat
+- Shared live drawing canvas
+- WebSocket synchronization
+- Simple and expressive UI
 
-Control a cat character at the bottom of the screen
+### 🎥 Demo  
+👉 *Add link here*
 
-Food objects fall from the top at random positions
-
-Speed increases over time
-
-Simple, satisfying scoring system
-
-Built entirely from scratch in C++ using Raylib
-
-🔧 Highlights
-
-Custom sprite rendering
-
-Collision detection
-
-Game loop + delta timing
-
-Sound effects + juice-y feedback
-
-🎥 Demo
-
-(Insert link here)
-
-🎨 3. Theraplay – Hackathon Project
-
-Tech: JavaScript, WebSockets, Canvas API, Node.js, Express
-Type: Anonymous chat + collaborative doodle space
-
-⭐ Overview
-
-Theraplay is a web application built during a hackathon where anonymous users can chat and doodle together in real time. Think of it like a digital sandbox where anyone can jump in and express themselves.
-
-💡 Concept
-
-Designed to be calming, expressive, and low-pressure — perfect for users who want a space to vent, doodle, and connect without identity attached.
-
-🔥 Features
-
-Anonymous real-time chat
-
-Shared live drawing board (Canvas)
-
-WebSockets for synchronized updates
-
-Soft, friendly UI that encourages playfulness
-
-Lightweight and deployable on any Node server
-
-🎥 Demo
-
-(Insert link here)
+---
