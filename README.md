@@ -24,6 +24,25 @@ https://github.com/user-attachments/assets/45cee64d-a9e0-4508-ae1f-007556b1dcac
 
 ---
 
+## 🎨 Theraplay (Hackathon Project)
+**Tech:** Node.js • WebSockets • Canvas API • Express  
+**Type:** Anonymous chat + collaborative doodling app
+
+### ✨ Overview  
+A calming web app where anonymous users can chat and doodle together in real time.
+
+### 🔥 Features
+- Real-time anonymous chat
+- Shared live drawing canvas
+- WebSocket synchronization
+- Simple and expressive UI
+
+### 🎥 Demo  
+
+https://github.com/user-attachments/assets/a2af54f5-309c-4480-9bf7-7a2bcd665dca
+
+---
+
 ## 🐾 Meownster (C++ Game)
 **Tech:** C++ • Raylib  
 **Type:** 2D arcade-style falling-object game
@@ -48,20 +67,3 @@ https://github.com/user-attachments/assets/fb11ec3d-6e46-4b2d-97be-d74a06217c62
 
 ---
 
-## 🎨 Theraplay (Hackathon Project)
-**Tech:** Node.js • WebSockets • Canvas API • Express  
-**Type:** Anonymous chat + collaborative doodling app
-
-### ✨ Overview  
-A calming web app where anonymous users can chat and doodle together in real time.
-
-### 🔥 Features
-- Real-time anonymous chat
-- Shared live drawing canvas
-- WebSocket synchronization
-- Simple and expressive UI
-
-### 🎥 Demo  
-👉 *Add link here*
-
----
