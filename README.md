@@ -43,7 +43,8 @@ Play as a cat catching falling food items. Simple, fast-paced, and fun.
 - Sound effects
 
 ### 🎥 Demo  
-👉 *Add link here*
+
+https://github.com/user-attachments/assets/fb11ec3d-6e46-4b2d-97be-d74a06217c62
 
 ---
 
