@@ -18,7 +18,9 @@ A 3D immersive portfolio experience built with Three.js and GSAP. Includes inter
 - Optimized rendering pipeline
 
 ### 🎥 Demo  
-👉 *Add link here*
+
+https://github.com/user-attachments/assets/45cee64d-a9e0-4508-ae1f-007556b1dcac
+
 
 ---
 
